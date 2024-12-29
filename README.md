@@ -43,7 +43,11 @@ openai:
   api_key: "INSERT OPENAI API KEY"
 ```
 
-
-
 ## Contact
  - [LinkedIn](https://www.linkedin.com/in/wongmarcus/)
+
+## Acknowledgements
+
+Thank you to [Hilary Gridley](https://hils.substack.com/) for the idea, from [Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-to-become-a-supermanager-with).  Much of the inspiration comes from her custom GPT, as well as the instructions use her template. 
+
+Props to [@okld](https://github.com/okld/streamlit-quill) for writing streamlit_quill.  The library was a lifesaver in this project, for allowing rich text AND for converting it into HTML for which I could feed it to OpenAI.  The application would be significantly less useful had it not been for this library. 
