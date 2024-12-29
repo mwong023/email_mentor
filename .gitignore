@@ -3,3 +3,4 @@ config.yaml
 instructions.txt
 load_instructions.py
 sidebar_choose_model.txt
+lib/
